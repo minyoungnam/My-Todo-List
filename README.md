@@ -6,6 +6,8 @@
 4. Layout의 최대 넓이는 1200px, 최소 넓이는 800px로 제한하고, 전체 화면의 가운데로 정렬
 5. **컴포넌트 구조는 자유롭게 구현해보세요.**
 - 반복되는 컴포넌트를 찾아서, 직접 컴포넌트를 분리해보시고, 분리한 컴포넌트를 `README`에 작성합니다.
+
+![TodoList](https://user-images.githubusercontent.com/128782170/232424458-d0b1eaee-77ad-44a1-98cd-e0123aff205d.gif)
 ## Todolist.jsx
 제목 내용 컨테이너 부분
 ## Button.jsx
