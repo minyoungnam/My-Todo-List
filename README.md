@@ -1,7 +1,6 @@
 # My-Todo-List
 
-<img src="https://user-images.githubusercontent.com/128782170/232423139-df92f64a-88f2-4b04-83b4-3be679243cf0.gif
-">
+![TodoList](https://user-images.githubusercontent.com/128782170/232424458-d0b1eaee-77ad-44a1-98cd-e0123aff205d.gif)
 ## Button.jsx
 ## Todo.jsx
 ## Todolist.jsx
